@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e9875c0d611544589bddbbaa4d1efd, type: 3}
+  m_Name: Trial Scenario 9
+  m_EditorClassIdentifier: 
+  scenarioText: Spanked little Timmy after hd destroyed half of Wal-Mart. Bystander
+    called authorities.
+  upgradePositive: {fileID: 11400000, guid: 86e6c22a1608a984eb13ca896799b12a, type: 2}
+  upgradeNegative: {fileID: 11400000, guid: cdde8f6934e3ed14180e5e0e08f6f142, type: 2}
+  positiveDescription: 'Attack Speed Up!
+
+    Size Down!'
+  negativeDescription: Size Up!
+  positiveParticle: {fileID: 19825070, guid: 7b117ab47ae99e74fbb811d488c1eb17, type: 3}
+  sacrificeParticle: {fileID: 19825070, guid: 7b117ab47ae99e74fbb811d488c1eb17, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e9875c0d611544589bddbbaa4d1efd, type: 3}
+  m_Name: Trial Scenario 2
+  m_EditorClassIdentifier: 
+  scenarioText: Stole candy from a baby during a childrens birthday party.
+  upgradePositive: {fileID: 11400000, guid: 5823324fe07b8dc4087f06153e3398e5, type: 2}
+  upgradeNegative: {fileID: 11400000, guid: cbffb603a3a914a448a871532befb452, type: 2}
+  positiveDescription: 'Size Up!
+
+    Move Speed Down!'
+  negativeDescription: DMG Up!
+  positiveParticle: {fileID: 19825070, guid: 7b117ab47ae99e74fbb811d488c1eb17, type: 3}
+  sacrificeParticle: {fileID: 19825070, guid: 7b117ab47ae99e74fbb811d488c1eb17, type: 3}
